@@ -196,7 +196,7 @@ You can optionally update this game play to increase the number of questions or 
 
 ---
 
-`POST '/questions'`
+`POST '/questions/search'`
 
 - Sends a post request in order to search for a specific question by search term
 - Request Body:
